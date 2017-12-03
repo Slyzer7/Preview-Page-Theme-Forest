@@ -121,7 +121,7 @@ a:focus{
 }
 .check-style{
   padding-right: 13px;
-  color: #4682B4;
+  color: #09ae07;
 }
 p {
   color: #111;
@@ -178,7 +178,7 @@ h6{
   font-size: 12px;
   letter-spacing: 4px;
   text-transform: uppercase;
-  color: #4682B4;
+  color: #09ae07;
   margin-bottom: 15px;
 }
 .section-head-vid h4{
@@ -190,7 +190,7 @@ h6{
   font-size: 12px;
   letter-spacing: 4px;
   text-transform: uppercase;
-  color: #4682B4;
+  color: #09ae07;
   margin-bottom: 15px;
 }
 .section-head h4 {
@@ -202,7 +202,7 @@ h6{
   font-size: 12px;
   letter-spacing: 4px;
   text-transform: uppercase;
-  color: #4682B4;
+  color: #09ae07;
   margin-bottom: 15px;
 }
 .section-head-sub h4 {
@@ -211,13 +211,13 @@ h6{
   font-weight: 300;
 }
 .btn-bg-md {
-  border: 1px solid #4682B4;
-  background: #4682B4;
+  border: 1px solid #09ae07;
+  background: #09ae07;
   border-radius: 30px;
 }
 .btn-bg-md:hover,
 .btn-bord-md:hover {
-  border-color: #4682B4;
+  border-color: #09ae07;
   color: #fff;
   background: transparent;
 }
@@ -258,7 +258,7 @@ h6{
 }
 .navbar-default .navbar-brand:hover {
   transition: .5s;
-  color: #4682B4;
+  color: #09ae07;
 }
 .navbar-default .navbar-brand span {
   font-weight: 100;
@@ -507,7 +507,7 @@ footer .sub-footer {
 }
 .team .team-item .info h6 {
   font-weight: 300;
-  color: #4682B4;
+  color: #09ae07;
   margin-bottom: 10px;
 }
 .team .team-item .info h5 {
@@ -518,7 +518,7 @@ footer .sub-footer {
   margin: 0 10px 0;
 }
 .team .team-item .info span:hover {
-  color: #4682B4;
+  color: #09ae07;
 }
 .team .why-us {
   padding: 20px 0 0;
@@ -549,7 +549,7 @@ footer .sub-footer {
   height: 105%;
   border: 2px solid #383838;
   border-radius: 5px;
-  background: #4682B4;
+  background: #09ae07;
   position: relative;
   -webkit-transition: all .4s;
   transition: all .4s;
